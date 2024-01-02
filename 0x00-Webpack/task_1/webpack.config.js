@@ -7,7 +7,4 @@ module.exports = {
         path: path.resolve(__dirname, 'public'),
     },
     mode: 'production',
-    resolve: {
-        modules: ['js', 'node_modules'],
-    },
 };
