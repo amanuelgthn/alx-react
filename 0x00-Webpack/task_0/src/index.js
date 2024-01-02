@@ -7,3 +7,5 @@ function addparagraph() {
 
     $('body').append(paragraph1, paragraph2, paragraph3);
 }
+
+addparagraph();
