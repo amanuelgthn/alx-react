@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b5a57a7.css",
+    "main.js": "/static/js/main.d76a5e31.js",
+    "static/js/787.1cd31a9e.chunk.js": "/static/js/787.1cd31a9e.chunk.js",
+    "static/media/Holberton.jpg": "/static/media/Holberton.24bab5d633e36ca8d17e.jpg",
+    "static/media/close-icon.ico": "/static/media/close-icon.eda5cae23dbc667715d3.ico",
+    "index.html": "/index.html",
+    "main.0b5a57a7.css.map": "/static/css/main.0b5a57a7.css.map",
+    "main.d76a5e31.js.map": "/static/js/main.d76a5e31.js.map",
+    "787.1cd31a9e.chunk.js.map": "/static/js/787.1cd31a9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5a57a7.css",
+    "static/js/main.d76a5e31.js"
+  ]
+}
