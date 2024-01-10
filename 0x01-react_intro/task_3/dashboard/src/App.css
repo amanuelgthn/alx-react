@@ -1,0 +1,40 @@
+:root {
+	--bgcolor: #E11D3F;
+	font: 18px Helvetica, Arial, sans-serif;
+}
+
+.App {
+	display: flex;
+	flex-direction: column;
+}
+
+.App-header {
+	display: flex;
+	align-items: center;
+	color: var(--bgcolor);
+	border-bottom: 3px solid var(--bgcolor);
+}
+
+.App-logo {
+	height: 200px;
+	width: 200px;
+    float: left;
+}
+
+.App-body {
+	margin: 5rem;
+	min-height: 50vh;
+}
+
+.App-footer {
+	display: flex;
+	justify-content: center;
+	border-top: 3px solid var(--bgcolor);
+	padding: 1rem;
+	font-style: italic;
+}
+
+.new-form {
+	display: inline-flex;
+	column-gap: 20px;
+}
