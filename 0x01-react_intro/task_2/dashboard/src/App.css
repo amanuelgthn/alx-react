@@ -3,6 +3,11 @@
 	font: 18px Helvetica, Arial, sans-serif;
 }
 
+.App {
+	display: flex;
+	flex-direction: column;
+}
+
 .App-header {
 	display: flex;
 	align-items: center;
@@ -27,4 +32,9 @@
 	border-top: 3px solid var(--bgcolor);
 	padding: 1rem;
 	font-style: italic;
+}
+
+.new-form {
+	display: inline-flex;
+	column-gap: 20px;
 }
