@@ -1,0 +1,8 @@
+.App-footer {
+	display: flex;
+	justify-content: center;
+	border-top: 3px solid var(--bgcolor);
+	padding: 1rem;
+	font-style: italic;
+	
+}
