@@ -1,0 +1,11 @@
+:root {
+	--bgcolor: #E11D3F;
+	font: 18px Helvetica, Arial, sans-serif;
+}
+
+
+.App-logo {
+	height: 200px;
+	width: 200px;
+    float: left;
+}

@@ -1,0 +1,21 @@
+.Notifications {
+    margin: 10px;
+    border: 1px dashed red;
+}
+
+.inlinenoty {
+    display: flex;
+    justify-content: right;
+    position: fixed;
+    top: 15px;
+    right: 15px;
+
+}
+
+.new-list {
+    color:red;
+}
+
+.first-li {
+    color: blue
+}
